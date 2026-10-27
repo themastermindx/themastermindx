@@ -6,7 +6,6 @@
 <td width="200" align="center" valign="top">
   <img src="https://avatars.githubusercontent.com/u/120895433?v=4" width="170" style="border-radius:50%" alt="Nitish Singh"/>
   <br/><br/>
-  <a href="https://nitishsingh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/nitish-kumar-85a860126/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/Itsnitishsingh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </td>
@@ -115,7 +114,7 @@ Interview-preparation platform with aptitude training, coding practice, mock tes
 <td width="50%" valign="top">
 
 ### 🌐 [Portfolio Website](https://github.com/themastermindx/nitish.singh)
-Personal portfolio with a live GitHub project feed, dark/light theme and a working contact form. **[View live ↗](https://nitishsingh.vercel.app)**
+Personal portfolio with a live GitHub project feed, dark/light theme and a working contact form.
 
 ![Next.js](https://img.shields.io/badge/-Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -159,8 +158,6 @@ Structured study repository covering Python, NumPy/Pandas, SQL (joins through wi
 I'm open to **full-stack and backend engineering roles at fintech and lending-tech companies**, particularly teams building loan origination, credit decisioning or account-aggregator products. I bring both the engineering and a working understanding of how an NBFC operates.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nitish-kumar-85a860126/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-  <a href="https://nitishsingh.vercel.app"><img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio"/></a>
-</p>
+  <a href="https://www.linkedin.com/in/nitish-kumar-85a860126/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer" alt=""/>
